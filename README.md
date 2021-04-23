@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KyanoHofkens
 - 👀 I’m interested in web development and videogames
 - 🌱 I’m currently learning web development and C#
-// 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: https://twitter.com/KyanoHofkens
                       https://www.instagram.com/kyanohofkens/
 
